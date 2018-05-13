@@ -1,0 +1,55 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #FFFFFF;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 11px;
+}
+
+
+/* Global */
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+a {
+    color: black;
+    background-color: floralwhite;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: antiquewhite;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h2 {
+    padding-top: 40px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin: 0 0 10px 0 ;
+}
+
+/* Header */
+header {
+    padding-top: 30px;
+    min-height: 70px;
+}
+
+
+/* Main List */
+
+
+
+/* Footer */
+footer {
+    padding-top: 75px;
+    font-size: 10px;
+}
