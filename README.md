@@ -1,6 +1,6 @@
 # zacheh.com
 
-This is my personal site. It serves as a overview of where I'm investing my time.
+Welcome, this is my personal site.
 
 ## CHANGELOG
 
