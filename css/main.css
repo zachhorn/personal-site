@@ -35,8 +35,12 @@ a {
 }
 
 a:hover {
-    color: #004381;
+    color: #f6595d;
     text-decoration: underline;
+}
+
+a:active {
+    color: red;
 }
 
 
@@ -88,4 +92,10 @@ footer {
 
 #now_top_space_1 {
     padding-top: 2em;
+}
+
+#nyc,
+#contact {
+    font-family: 'Contrail One', sans-serif;
+    letter-spacing: .0em;
 }
