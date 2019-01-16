@@ -4,6 +4,13 @@ Welcome, this is my personal site.
 
 ## CHANGELOG
 
+### v4.0 - 2019 Redesign - Jan 15, 2019
+- Dark theme
+- Full name signature logo, which replaces the initials
+- changed link color to a lighter blue, with the a:hover state a medium accent red
+- changed h2 font to Contrail One, a more kinetic font which modernizes the look and feel of the site.
+- Added Super Reactor's current updates, and removed Archived Capital (which is now essentially a part of Super Reactor)
+
 ### v3.0
 
 - Changed the site header from text to a .png of my initials. Looks better.
@@ -17,7 +24,7 @@ Welcome, this is my personal site.
 
 - Need to lock down boilerplate HTML, or create some kind of theme, so that I can add more pages easily. 
 
-### v1.0
+### v1.0 - June 2018
 
 - First (rough) version of the base HTML/CSS.
 - Very basic, probably needs to be cleaned up, rearranged, and brought in line with current best practices.
