@@ -1,0 +1,18 @@
+ <li>Update Sep. 12, 2018: Archived Capital may become one section of my new publication Super Reactor. AC would possibly take a new name that better fits the theme of future, technology, intelligence, and exploration. 
+                        <br>
+                        <br>
+                        <em>(Legacy Post - See update above)</em> Building <a href="https://archived.capital" target="_blank">Archived Capital</a> is consuming a large portion of my time. I created it because I couldn't find enough good information on the study of mental models, and specifically how a person develops in the internal architecture of their intellect. How are memories formed and retrieved? How does one store information so that it is useful and accessible? How does a person improve reading recall and retention? These topics are interesting to me, so I'd like to invest my time into building a resource that gathers information on these topics.
+                    </li>
+                    
+                    
+Form and Function
+
+  <li>
+                        Working on the idea that an arbitrage is created at the moment someone decides to sell a piece of furniture between the sale price, and the expected 'retail' price. Delivery and pickup are value added services. You would be offering <a href="https://en.wikipedia.org/wiki/Market_liquidity" target="_blank">liquidity</a> in a relatively illiquid market, in whcih I have first-hand experience: People will throw away premium furniture (i.e. $3,500 - $7,500 sofas, moderate use), because they don't want to go through the hassle of selling.
+                        <h3 id="small_h3"><strong>Roadmap</strong></h3>
+                        <ol>
+                            <li>Buy and sell furniture in existing marketplaces.</li>
+                            <li>Use profits from Step 1 to develop the platform for seamless buying and selling.</li>
+                            <li>Scale inventory.</li>
+                        </ol>
+                    </li>
