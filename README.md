@@ -4,6 +4,12 @@ Welcome, this is my personal site.
 
 ## CHANGELOG
 
+### v4.5 - March 15, 2019
+- Updated all text in sections
+- Added @supreact twitter tl embed
+- Updated now page
+
+
 ### v4.0 - 2019 Redesign - Jan 15, 2019
 - Dark theme
 - Full name signature logo, which replaces the initials
