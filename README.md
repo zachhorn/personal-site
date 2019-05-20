@@ -4,6 +4,13 @@ Welcome, this is my personal site.
 
 ## CHANGELOG
 
+### v5.0 - May 20, 2019
+- Redesigned site
+- Light theme
+- vector logo
+- better content alignment
+- cleaned up html structure
+
 ### v4.5 - March 15, 2019
 - Updated all text in sections
 - Added @supreact twitter tl embed
