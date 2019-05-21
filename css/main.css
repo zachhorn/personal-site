@@ -59,12 +59,12 @@ h3 {
 }
 
 /* Formats paragraphs with correct line-height, spacing */
-.post-format ol, ul {
-    margin-top: 1.5rem;
+.list-spacing ol, ul {
+    margin-top: 1.5em;
 }
 
 li {
-    margin: 0 0 1.5rem 0;
+    margin: 0 0 1.5em 0;
 }
 
 a {
@@ -89,7 +89,7 @@ ul {
 
 h2 {
     font-family: 'Contrail One', sans-serif;
-    margin-top: 3rem;
+    margin-top: 3em;
 }
 
 /* Header */
@@ -137,10 +137,10 @@ footer {
 
 #branding {
     position: absolute;
-    width: 6rem;
-    height: 6rem;
-    top: 2rem;
-    left: 2rem;
+    width: 6em;
+    height: 6em;
+    top: 2em;
+    left: 2em;
 }
 
 .section-heading {
@@ -148,11 +148,11 @@ footer {
 }
 
 #arrow {
-    padding-left: .5rem;
+    padding-left: .5em;
 }
 
 .spacer {
-    padding-top: 10rem;
+    padding-top: 10em;
 }
 
 
