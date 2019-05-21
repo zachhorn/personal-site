@@ -67,7 +67,7 @@ a {
 }
 
 a:hover {
-    color: #91aaff;
+    color: #827dfa;
     text-decoration: underline;
 }
 
@@ -148,5 +148,11 @@ footer {
 
 .spacer {
     padding-top: 10rem;
+}
+
+#now-page-month-heading {
+    font-family: monospace;
+    font-size: 1.3em;
+    font-weight: 700;
 }
 
