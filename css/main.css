@@ -21,6 +21,12 @@ body {
     font-weight: 400;
 }
 
+h3 {
+    font-family: monospace;
+    font-size: 1.3em;
+    font-weight: 700;
+}
+
 /* Navigation 
 
 .navigation ul {
@@ -113,8 +119,7 @@ footer {
     text-align: center;
 }
 
-#copyright,
-#contact a, p {
+#copyright p {
     color: #d8d8d2;
 }
 
@@ -150,9 +155,5 @@ footer {
     padding-top: 10rem;
 }
 
-#now-page-month-heading {
-    font-family: monospace;
-    font-size: 1.3em;
-    font-weight: 700;
-}
+
 
