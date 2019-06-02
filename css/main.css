@@ -145,6 +145,7 @@ footer {
 
 .section-heading {
     text-transform: uppercase;
+    letter-spacing: .08em;
 }
 
 #arrow {
