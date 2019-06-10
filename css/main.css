@@ -155,3 +155,13 @@ footer {
 .spacer {
     padding-top: 10em;
 }
+
+#daily-content {
+    color: white;
+    background-color: #6653FF;
+    padding: .6em;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+/* 3ECF8E */
