@@ -73,12 +73,12 @@ a {
 }
 
 a:hover {
-    color: #827dfa;
+    color: rgb(79, 56, 252);
     text-decoration: underline;
 }
 
 a:active {
-    color: red;
+    color: rgb(50, 23, 255);
 }
 
 
