@@ -4,6 +4,11 @@ Welcome, this is my personal site.
 
 ## CHANGELOG
 
+### v5.5 - July 2019
+- Working towards the goal of implementing a more structured web app experience. i.e. Either a db or a flat-file cms, which would let me write posts in markdown while the site would compile and build at runtime.
+- There are many imperfect solutions on the market currently, so I'm spending some time with each to get a feel for which would be best for the long term.
+- I'm doing this so I have a place to host my personal writing, essays, daily blog, etc. I also want to start an seo effort for 'Zach Horn', so I can rank for my own name. There are a few other people with my name and a professional presence — so, challenge accepted.
+
 ### v5.0 - May 20, 2019
 - Redesigned site
 - Light theme
