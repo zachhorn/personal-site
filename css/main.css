@@ -105,6 +105,20 @@ footer {
     font-size: 12px;
 }
 
+/* Navigation */
+#nav-links li a {
+    display: block
+}
+
+#nav-links li {
+    float: right;
+    padding: 1em 2em 2em 1em;
+}
+
+#nav-links {
+    padding: 0 5em 0em 0;
+}
+
 .no-bullets {
     list-style: none;
 }
