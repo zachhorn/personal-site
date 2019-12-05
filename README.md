@@ -1,6 +1,7 @@
 # zacheh.com
 
-Welcome, this is my personal site.
+~~Welcome, this is my personal site.~~ 
+This *was* my personal site. I'm pursuing a new venture, so I moved everything over to [zacharyhorn.com](https://zacharyhorn.com/) to function as a personal site, but also a sales page for the work I'm doing at the moment.
 
 ## CHANGELOG
 
